@@ -5,9 +5,9 @@
     - docstring과 comment 도 PEP8에 맞춰서 작업한다.
     
  2. Branch strategy
-    - 작업해야할 내용이 있으면 Issue에 작업할 내용을 적고 작업을 시작한다.
-    - pull request를 올릴때는 내용부분에 해당 작업 이슈의 링크를 같이 적어준다.
-    - 모든 작업은 branch을 따서 작업 후 merge 한다.
+    - 작업해야할 내용이 있으면 Issue에 작업할 내용을 적고 작업을 시작한다.
+    - pull request를 올릴때는 내용부분에 해당 작업 이슈의 링크를 같이 적어준다.
+    - 모든 작업은 branch을 따서 작업 후 merge 한다.
     - 이때, 2인이상 review 후 merge (self merge 금지)
     - 기본적인 git 명령어
     	- branch 생성/이동 방법
